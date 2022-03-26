@@ -1,0 +1,2 @@
+https://rishubil.github.io/jsassist-open-dccon/#/list?dccon_list=https%3A%2F%2Fopen-dccon-selector.update.sh%2Fapi%2Fconvert-dccon-url%3Ftype%3Dbridge_bbcc%26url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2FMunchkinyoon%2Fdcconinfo%2Fmain%2Flib%2Fdccon_list.js
+https://open-dccon-selector.update.sh/api/convert-dccon-url?type=bridge_bbcc&url=https://raw.githubusercontent.com/Munchkinyoon/dcconinfo/main/lib/dccon_list.js
